@@ -1,0 +1,10 @@
+Package: RinfoDemocracy
+Type: Package
+Title: R package for infoDemocracy
+Version: 0.1.0
+Authors@R: person("Lee", "Bunce", email = "leebunce@hotmail.com", role = c("aut", "cre", "cph"))
+Description: Provides data and functions related to infoDemocracy.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
