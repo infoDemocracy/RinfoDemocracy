@@ -7,10 +7,10 @@
 get_donations()
 }
 \value{
-A data.frame.
+A data.frame. Variable names are cleaned.
 }
 \description{
-This function gets donations from the electoral commission website.
+This function gets live data about donations from the Electoral Commission donations database.
 }
 \examples{
 get_donations()
